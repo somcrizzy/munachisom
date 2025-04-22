@@ -57,11 +57,11 @@ const Projects = () => {
           <div className="card" style={{ width: '100%' }}>
             <img src={nolly}className='img-fluid'     alt="img" />
             <div className="card-body">
-              <h5 className="card-title text-center text mt-5 ">Nollywood Playhouse Academy</h5>
-              <p className="card-text">Welcome to our Acting Academy, where passion meets professionalism. Our comprehensive programs are designed to nurture talent and cultivate skills, providing aspiring actors with the tools they need to succeed on stage and screen.</p>
+              <h5 className="card-title text-center text mt-5 ">Expensive Travellers and Tours ltd</h5>
+              <p className="card-text">Welcome to our Travelling Agency, we craft unforgettable journeys. Whether you dream of chasing the Northern Lights in Iceland, diving into turquoise waters in Bali, or sipping espresso under the Tuscan sun, we make it happen.</p>
               <h6> LANGUAGE: WORDPRESS </h6>
               <div className="text-center">
-                 <a href="https://nollywoodplayhouse.com/" className="btn bg-dark text-light linked-button ">
+                 <a href="https://expensivetravellers.com/" className="btn bg-dark text-light linked-button ">
                  <i className="fas fa-arrow-up"></i> view Site
                </a>
                <a href="https://wordpress.org" className="btn bg-dark text-light linked-button mr-5">
