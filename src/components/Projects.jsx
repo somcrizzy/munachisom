@@ -58,7 +58,7 @@ const Projects = () => {
             <img src={travel}className='img-fluid'     alt="img" />
             <div className="card-body">
               <h5 className="card-title text-center text mt-5 ">Expensive Travellers and Tours ltd</h5>
-              <p className="card-text">Travelling Agency, we craft unforgettable journeys. Whether you dream of chasing the Northern Lights in Iceland, diving into turquoise waters in Bali, or sipping espresso under the Tuscan sun, we make it happen.</p>
+              <p className="card-text">Travelling Agency, we craft unforgettable journeys.Whether you dream of chasing the Northern Lights in Iceland, diving into turquoise waters in Bali, or sipping espresso under the Tuscan sun, we make it happen.</p>
               <h6> FRAMEWORK: WORDPRESS </h6>
               <div className="text-center">
                  <a href="https://expensivetravellers.com/" className="btn bg-dark text-light linked-button ">
