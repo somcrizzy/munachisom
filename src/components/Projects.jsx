@@ -1,7 +1,7 @@
 import React from 'react'
 import munachi from '../assets/munachi.png'
 import iphone from '../assets/iphone.png'
-import nolly from '../assets/nolly.jpg'
+import travel from '../assets/expensive.png'
 import IconsComponent from './IconsComponents'
 
 
@@ -55,7 +55,7 @@ const Projects = () => {
         </div>
         <div className="col-12 col-md-6 col-lg-4 mb-4" data-aos="zoom-in">
           <div className="card" style={{ width: '100%' }}>
-            <img src={nolly}className='img-fluid'     alt="img" />
+            <img src={travel}className='img-fluid'     alt="img" />
             <div className="card-body">
               <h5 className="card-title text-center text mt-5 ">Expensive Travellers and Tours ltd</h5>
               <p className="card-text">Welcome to our Travelling Agency, we craft unforgettable journeys. Whether you dream of chasing the Northern Lights in Iceland, diving into turquoise waters in Bali, or sipping espresso under the Tuscan sun, we make it happen.</p>
